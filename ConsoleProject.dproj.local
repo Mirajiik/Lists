@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.039,D:\Латыпов\Work.Step1-main\Lists.pas=D:\Латыпов\Work.Step1-main\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=D:\Латыпов\Work.Step1-main\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,D:\Латыпов\Work.Step3-main\Step2.dproj=D:\Латыпов\Work.Step3-main\Step3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\Латыпов\Work.Step2-main\Step1.dproj=D:\Латыпов\Work.Step2-main\Step2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\ravil\Desktop\Work.Step3-main\Step3.dproj=C:\Users\ravil\Desktop\Work.Step3-main\ConsoleProject.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

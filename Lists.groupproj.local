@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.754,D:\Латыпов\Work.Step2-main\ProjectStep2.groupproj=D:\Латыпов\Work.Step2-main\ProjectStep1AndTests.groupproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,D:\Латыпов\Work.Step3-main\ProjectStep3.groupproj=D:\Латыпов\Work.Step3-main\ProjectStep2.groupproj</Transaction>
+    <Transaction>2023.07.21 21:52:12.695,C:\Users\ravil\Desktop\Work.Step3-main\Lists.groupproj=C:\Users\ravil\Desktop\Work.Step3-main\ProjectStep3.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\ravil\Desktop\Work.Step3-main\Test\ListsTest.dproj"/>
+	</Default.Personality>
+</BorlandProject>
